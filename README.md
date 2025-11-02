@@ -267,3 +267,32 @@ https://localhost:7136/swagger
 📧 Email: zahramokhtari990@gmail.com
 
 💼 LinkedIn:www.linkedin.com/in/zahramokhtari1996
+
+---
+
+---
+
+## 📸 Project Screenshots
+## 📸 تصاویر پروژه
+
+
+| Description | Preview |
+|--------------|----------|
+| 🏗️ Project Structure | ![Project Structure](Assets/sln.png) |
+| ✅ Successful API Test | ![Create-Exam](Assets/create-exam.png) |
+| ✅ Successful API Test | ![Get-Exam-Result](Assets/get-exam-result.png) |
+| ✅ Successful API Test | ![Get-Teacher-Profile](Assets/get-teacher-profile.png) |
+| 🔐 JWT Authentication | ![JWT Auth](Assets/jwt-auth.png) |
+| 🔐 JWT Authorization | ![JWT Auth](Assets/authorization.png) |
+| 🔐 JWT Login | ![JWT Auth](Assets/jwt-login.png) |
+| 🎓 Student Dashboard | ![Student Dashboard](Assets/student-dashboard.png) |
+| 👨‍🏫 Teacher Dashboard | ![Teacher Dashboard](Assets/teacher-dashboard1.png) |
+| 👨‍🏫 Teacher Dashboard | ![Teacher Dashboard](Assets/teacher-dashboard2.png) |
+| 👨‍🏫 Admin Dashboard | ![Admin Dashboard](Assets/admin-dashboard.png) |
+| 🌐 Login-Page | ![Login](login.png) |
+| 💻 Register-Page | ![Register](register.png) |
+
+
+
+
+
