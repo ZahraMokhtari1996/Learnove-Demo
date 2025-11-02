@@ -17,6 +17,7 @@ Supports **Students**, **Teachers**, and **Admins** with independent panels, JWT
   - Multiple-choice (auto-grading)
   - Practical exams (with live session link)
 - View grades and completed courses
+- Fully ready backend with flexible API — connectable to any frontend framework (Angular, React, Vue, etc.)
 
 ---
 
@@ -149,7 +150,7 @@ Authorization: Bearer {token}
 Zahra Mokhtari
 Full Stack .NET Developer
 
-📂 GitHub:ZahraMokhtari1996
+📧 Email: zahramokhtari990@gmail.com
 
 💼 LinkedIn:www.linkedin.com/in/zahramokhtari1996
 
@@ -160,9 +161,10 @@ Full Stack .NET Developer
 
 # 🎓 سامانه مدیریت آموزش (سیستم چندنقشی آموزشی)
 
-یک نرم‌افزار وب کامل با **ASP.NET Core 8.0** برای مدیریت آموزش آنلاین،  
-با سه نقش مستقل: **دانشجو، مدرس، و مدیر**  
-دارای احراز هویت JWT، معماری تمیز، و کنترلرهای RESTful برای هر نقش.
+- یک نرم‌افزار وب کامل با **ASP.NET Core 8.0** برای مدیریت آموزش آنلاین،  
+- با سه نقش مستقل: **دانشجو، مدرس، و مدیر**  
+- دارای احراز هویت JWT، معماری تمیز، و کنترلرهای RESTful برای هر نقش،
+- بک‌اند آماده و مستقل، قابل اتصال به هر نوع فرانت‌اند (Angular، React، Vue و …)
 
 ---
 
@@ -262,6 +264,6 @@ https://localhost:7136/swagger
 زهرا مختاری
 توسعه‌دهنده فول‌استک دات‌نت
 
-📂 GitHub:ZahraMokhtari1996
+📧 Email: zahramokhtari990@gmail.com
 
 💼 LinkedIn:www.linkedin.com/in/zahramokhtari1996
