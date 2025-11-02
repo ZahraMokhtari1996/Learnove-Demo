@@ -278,19 +278,19 @@ https://localhost:7136/swagger
 
 | Description | Preview |
 |--------------|----------|
-| 🏗️ Project Structure | ![Project Structure](Assets/sln.png) |
-| ✅ Successful API Test | ![Create-Exam](Assets/create-exam.png) |
-| ✅ Successful API Test | ![Get-Exam-Result](Assets/get-exam-result.png) |
-| ✅ Successful API Test | ![Get-Teacher-Profile](Assets/get-teacher-profile.png) |
-| 🔐 JWT Authentication | ![JWT Auth](Assets/jwt-auth.png) |
-| 🔐 JWT Authorization | ![JWT Auth](Assets/authorization.png) |
-| 🔐 JWT Login | ![JWT Auth](Assets/jwt-login.png) |
-| 🎓 Student Dashboard | ![Student Dashboard](Assets/student-dashboard.png) |
-| 👨‍🏫 Teacher Dashboard | ![Teacher Dashboard](Assets/teacher-dashboard1.png) |
-| 👨‍🏫 Teacher Dashboard | ![Teacher Dashboard](Assets/teacher-dashboard2.png) |
-| 👨‍🏫 Admin Dashboard | ![Admin Dashboard](Assets/admin-dashboard.png) |
-| 🌐 Login-Page | ![Login](login.png) |
-| 💻 Register-Page | ![Register](register.png) |
+| 🏗️ Project Structure | ![Project Structure](assets/screenshots/sln.png) |
+| ✅ Successful API Test | ![Create-Exam](assets/screenshots/create-exam.png) |
+| ✅ Successful API Test | ![Get-Exam-Result](assets/screenshots/get-exam-result.png) |
+| ✅ Successful API Test | ![Get-Teacher-Profile](assets/screenshots/get-teacher-profile.png) |
+| 🔐 JWT Authentication | ![JWT Auth](assets/screenshots/jwt-auth.png) |
+| 🔐 JWT Authorization | ![JWT Auth](assets/screenshots/authorization.png) |
+| 🔐 JWT Login | ![JWT Auth](assets/screenshots/jwt-login.png) |
+| 🎓 Student Dashboard | ![Student Dashboard](assets/screenshots/student-dashboard.png) |
+| 👨‍🏫 Teacher Dashboard | ![Teacher Dashboard](assets/screenshots/teacher-dashboard1.png) |
+| 👨‍🏫 Teacher Dashboard | ![Teacher Dashboard](assets/screenshots/teacher-dashboard2.png) |
+| 👨‍🏫 Admin Dashboard | ![Admin Dashboard](assets/screenshots/admin-dashboard.png) |
+| 🌐 Login-Page | ![Login](assets/screenshots/login.png) |
+| 💻 Register-Page | ![Register](assets/screenshots/register.png) |
 
 
 
