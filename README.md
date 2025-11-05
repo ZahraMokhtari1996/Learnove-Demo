@@ -134,6 +134,10 @@ Add the token in request headers
 Authorization: Bearer {token}
 
 ---
+### Demo Video to Get to Know more about the project:
+[🎥 Watch Demo Video on Google Drive](https://drive.google.com/file/d/1GQ3ru2Wu656sR_54nBR7alsVnpuLDuJ8/view?usp=sharing)
+
+---
 
 ### 🧠 Future Improvements
 
@@ -244,6 +248,10 @@ Domain → Application → Infrastructure → Web
 - File Upload Handling  
 - Deployment on Railway  
 - GitHub Version Control  
+
+---
+### برای آشنایی بیشتر با پروژه،دموی زیر را مشاهده کنید:
+[🎥 Watch Demo Video on Google Drive](https://drive.google.com/file/d/1ue1bKijb1GlgXJE1KgWpIYZkfvu8Q8jH/view?usp=sharing)
 
 ---
 
